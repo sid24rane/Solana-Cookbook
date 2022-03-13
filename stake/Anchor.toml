@@ -1,0 +1,11 @@
+[features]
+seeds = false
+[programs.localnet]
+stake = "6Jc6kj1M6kpntJKk9zZSuLd4skaD2SfdnRuxCxhTnD3i"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "localnet"
+wallet = "/home/siddh/.config/solana/id.json"
